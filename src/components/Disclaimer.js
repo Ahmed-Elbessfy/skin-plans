@@ -31,7 +31,7 @@ const Disclaimer = () => {
     <footer
       className="result_comp_style text-left bg-prime text-white text-left"
       dir="ltr"
-      style={{ width: "100vw", borderRadius: "0" }}
+      style={{ borderRadius: "0" }}
     >
       <div className="resultMaxWidth w-100 p-3">
         {content.map((c, i) => {
